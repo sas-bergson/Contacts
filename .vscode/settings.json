@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "webContent/WEB-INF/lib/**/*.jar",
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+        ],
+        "sources": {
+        }
+    }
+}
